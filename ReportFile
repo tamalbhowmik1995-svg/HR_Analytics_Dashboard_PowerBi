@@ -1,0 +1,19 @@
+Key Components of an Attrition Report in Power BI
+A comprehensive attrition report typically focuses on several Key Performance Indicators (KPIs) and visualizations to understand why employees are leaving.
+1. Key Metrics (KPI Cards)
+These cards provide a high-level overview of critical numbers:
+Total Employees: Current active headcount.
+Attrition Count: Total number of employees who left during a specific period.
+Attrition Rate: The percentage of employees who left relative to the average number of employees over a set period. Formula: (Number of Separations / Average Number of Employees) * 100.
+Average Tenure: The average length of time employees stay with the company.
+Average Age: The average age of the workforce or departing employees.
+2. Essential Visualizations and Insights
+These charts help break down the attrition data by various dimensions to identify trends and underlying causes:
+Attrition by Department/Job Role: Identifies which departments (e.g., Sales, R&D) or roles (e.g., Laboratory Technicians) have the highest turnover.
+Attrition by Age Group: Highlights age demographics with high attrition (e.g., employees aged 26-35 years).
+Attrition by Tenure/Years at Company: Shows if employees are leaving early in their tenure (e.g., within the first 1-5 years) or after significant milestones.
+Attrition by Salary Bracket: Compares attrition rates with salary levels to understand if compensation is a factor.
+Attrition by Marital Status/Gender: Provides demographic insights into turnover patterns.
+Reasons for Attrition: A breakdown of voluntary versus involuntary attrition and specific reasons for leaving (e.g., job dissatisfaction, better career opportunities).
+3. Interactivity
+The report should include slicers for filtering data by date range, department, location, or manager, allowing HR professionals to drill down into specific areas of concern.
